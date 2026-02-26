@@ -4,7 +4,7 @@
 
 ### 배포 링크
 
-[https://gemini.google.com/share/550e404dd0d7]
+[https://gemini.google.com/share/c29271893951]
 
 ### 이 앱을 만든 이유
 
